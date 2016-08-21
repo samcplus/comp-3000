@@ -5,14 +5,6 @@ b. Due to the ever-increased updated technologya and ever-changing methodologies
 
 c. He think the Objecte oriented language like C++ make it easier to design software and program at the same time.
 
-d. The complexity exists within the
-software design itself, within the software organization of the company, and within the
-industry as a whole. Software design is very similar to systems design. It can span multiple
-technologies and often involves multiple sub-disciplines. Software specifications tend to be
-fluid, and change rapidly and often, usually while the design process is still going on.
-Software development teams also tend to be fluid, likewise often changing in the middle of
-the design process. In many ways, software bears more resemblance to complex social or organic system than to hardware.All of this makes software design a difficult and error
-prone process. None of this is original thinking, but almost 30 years after the software
-engineering revolution began, software development is still seen as an undisciplined art
-compared to other engineering professions.
+d. The complexity exists within the software design itself, within the software organization of the company, and within the industry as a whole. Software design is very similar to systems design. It can span multiple technologies and often involves multiple sub-disciplines. Software specifications tend to be fluid, and change rapidly and often, usually while the design process is still going on.
+Software development teams also tend to be fluid, likewise often changing in the middle of the design process. In many ways, software bears more resemblance to complex social or organic system than to hardware.All of this makes software design a difficult and error prone process. None of this is original thinking, but almost 30 years after the software engineering revolution began, software development is still seen as an undisciplined art compared to other engineering professions.
 . 
